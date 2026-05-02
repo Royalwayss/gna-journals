@@ -3,7 +3,7 @@
 ══════════════════════════════════════ -->
 <nav>
   <a href="index.php" class="logo">
-    <img src="images/logo.png" alt="GNA University">
+    <img src="images/gna_university_logo.png" alt="GNA University">
   </a>
 
   <ul class="nav-center">
