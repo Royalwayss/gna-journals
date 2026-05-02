@@ -7,7 +7,7 @@
 
       <div class="footer-brand">
         <div class="footer-logo-wrap">
-          <img src="images/gna_university_logo.png" alt="GNA University">
+          <img src="images/logo-white-footer.png" alt="GNA University">
         </div>
         <p>An open-access, peer-reviewed multidisciplinary journal fostering scholarly exchange across sciences, management, engineering, and social sciences since 2007.</p>
       </div>
