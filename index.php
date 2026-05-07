@@ -8,13 +8,24 @@
       <!-- ══════════════════════════════════════
          HERO BANNER
          ══════════════════════════════════════ -->
-      <div class="hero" id="home">
-         <img src="images/banner.jpg" alt="GNA Journal Banner">
-      </div>
+		  <?php /*<div class="hero" id="home">
+			 <img src="images/banner.jpg" alt="GNA Journal Banner">
+		  </div> */ ?>
       <!-- ══════════════════════════════════════
          AIM & SCOPE
          ══════════════════════════════════════ -->
-      <section id="aim-scope">
+      
+		<div class="page-header">
+		  <div class="page-header-inner">
+			<h1><em>GNA Journal of</em>  Management and Technology</h1>
+		  </div>
+		</div>
+	  
+	  
+	  
+	  
+	  
+	  <section id="aim-scope">
          <div class="container">
             <div class="aim-layout">
                <div class="aim-cover-card">

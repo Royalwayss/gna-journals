@@ -15,9 +15,9 @@
       <div class="footer-col">
         <h5>Quick Links</h5>
         <ul>
-          <li><a href="index.php">Home</a></li>
+          <li><a href="<?php echo $homeURL; ?>">Home</a></li>
           <li><a target="_blank" href="pdf/Guidelines-for-Authors-2026.pdf">Guidelines for Authors</a></li>
-          <li><a target="_blank" href="pdf/Author-Declaration-and-copyright-form.pdf">Author Declaration &amp; Copyright Form</a></li>
+          <li><a target="_blank" href="pdf/GJMT_Copyright_Form_v2.pdf">Author Declaration &amp; Copyright Form</a></li>
           <li><a href="editorial-board.php">Editorial Board</a></li>
           <li><a href="advisory-board.php">Advisory Board</a></li>
           <li><a href="volume.php">Volume</a></li>

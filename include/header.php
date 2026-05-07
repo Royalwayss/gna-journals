@@ -2,12 +2,12 @@
      NAVBAR
 ══════════════════════════════════════ -->
 <nav>
-  <a href="index.php" class="logo">
+  <a href="<?php echo $homeURL; ?>" class="logo">
     <img src="images/gna_university_logo.png" alt="GNA University">
   </a>
 
   <ul class="nav-center">
-    <li><a href="index.php" class="active">Home</a></li>
+    <li><a href="<?php echo $homeURL; ?>" class="active">Home</a></li>
 
     <li>
       <a href="#" >For Authors
@@ -15,7 +15,7 @@
       </a>
       <div class="dropdown">
         <a target="_blank" href="pdf/Guidelines-for-Authors-2026.pdf">Guidelines for Authors</a>
-        <a target="_blank" href="pdf/Author-Declaration-and-copyright-form.pdf">Author Declaration &amp; Copyright Form</a>
+        <a target="_blank" href="pdf/GJMT_Copyright_Form_v2.pdf">Author Declaration &amp; Copyright Form</a>
       </div>
     </li>
 
@@ -39,10 +39,10 @@
 
 <!-- Mobile Menu -->
 <div class="mobile-menu">
-  <a href="index.php">Home</a>
+  <a href="<?php echo $homeURL; ?>">Home</a>
   <a href="#">For Authors</a>
   <a target="_blank" href="pdf/Guidelines-for-Authors-2026.pdf" class="sub">Guidelines for Authors</a>
-  <a target="_blank" href="pdf/Author-Declaration-and-copyright-form.pdf" class="sub">Author Declaration &amp; Copyright Form</a>
+  <a target="_blank" href="pdf/GJMT_Copyright_Form_v2.pdf" class="sub">Author Declaration &amp; Copyright Form</a>
   <a href="#">Board Members</a>
   <a href="editorial-board.php" class="sub">Editorial Board</a>
   <a href="advisory-board.php" class="sub">Advisory Board</a>

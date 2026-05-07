@@ -1,3 +1,17 @@
+
+<?php
+
+if($_SERVER['HTTP_HOST'] == 'localhost'){
+	$homeURL = 'index.php';
+}else{
+	$homeURL = 'https://journal.gnauniversity.edu.in/';
+}
+
+?>
+
+
+
+
 <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>GNA Journal of Management and Technology</title>
