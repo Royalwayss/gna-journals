@@ -41,6 +41,6 @@
       <div class="footer-issn"><strong>ISSN:</strong> 0974-5726</div>
     </div>
   </footer>
-  <script src="<?php echo $baseUrl ?? ''; ?>js/main.js"></script>
+  <script src="<?php echo $baseUrl ?? ''; ?>js/main.js?v=2.0"></script>
 </body>
 </html>

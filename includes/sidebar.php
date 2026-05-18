@@ -26,8 +26,8 @@ $aboutOpen = in_array($currentPage, ['about']) ? ' open' : '';
           <?php echo navLink('advisory-board.php', 'Editorial Advisory Board', $currentPage); ?>
           <?php echo navLink('editorial-board.php', 'Editorial Board', $currentPage); ?>
           <?php echo navLink('author-guidelines.php', 'Guidelines for Authors', $currentPage); ?>
-          <li><a href="downloads/Submission_Guidelines.pdf" target="_blank">Submission Guidelines &#8599;</a></li>
-          <li><a href="downloads/Sample_Paper.pdf" target="_blank">Sample Paper &#8599;</a></li>
+          <li><a href="pdf/Submission_Guidelines.pdf" target="_blank">Submission Guidelines &#8599;</a></li>
+          <li><a href="pdf/Sample_Paper.pdf" target="_blank">Sample Paper &#8599;</a></li>
           <?php echo navLink('current-issue.php', 'Current Issue', $currentPage); ?>
           <?php echo navLink('archived-issues.php', 'Archived Issues', $currentPage); ?>
           <?php echo navLink('open-access.php', 'Open Access', $currentPage); ?>
