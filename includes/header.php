@@ -4,6 +4,14 @@
 // $pageTitle must be set before including this file
 if (!isset($pageTitle)) $pageTitle = 'GNA Journal of Management and Technology';
 $baseUrl = '';
+
+ 
+if($_SERVER['HTTP_HOST'] == 'localhost'){
+	$homeURL = 'index.php';
+}else{
+	$homeURL = 'https://journal.gnauniversity.edu.in/';
+}
+ 
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -18,7 +26,7 @@ $baseUrl = '';
 
   <header class="site-header">
     <div class="header-inner">
-      <a href="<?php echo $baseUrl; ?>index.php" class="logo">
+      <a href="<?php echo $homeURL; ?>" class="logo">
         <img src="<?php echo $baseUrl; ?>images/logo.png" alt="GNA University">
       </a>
       <div class="journal-name">
