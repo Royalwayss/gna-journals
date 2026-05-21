@@ -21,7 +21,7 @@ include 'includes/header.php';
         <li>All manuscripts undergo a double-blind peer review process.</li>
       </ul>
 
-      <div class="cfp-poster"><img src="images/creative.jpg" alt="We're looking for Expert Peer Reviewers — GJMT"></div><a href="mailto:gna.journal@gnauniversity.edu.in" class="cta-btn">Submit Now &#8594;</a></div>
+      <div class="cfp-poster"><img src="images/call-for-papers.jpeg" alt="We're looking for Expert Peer Reviewers — GJMT"></div><a href="mailto:gna.journal@gnauniversity.edu.in" class="cta-btn">Submit Now &#8594;</a></div>
     </main>
   </div>
 

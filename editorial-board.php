@@ -10,7 +10,7 @@ include 'includes/header.php';
     <main class="main-content">
 <h1 class="page-title">Editorial Board</h1>
       <div class="board-grid">
-        <div class="board-card"><div class="bc-avatar">MH</div><div class="bc-info"><div class="bc-role">Managing Editor</div><div class="bc-name">Prof. Dr. Monika Hanspal</div><div class="bc-meta">Dean Academics, Director of IQAE &nbsp;|&nbsp; GNA University, Phagwara</div></div><div class="bc-actions"><a href="#" class="btn-sm btn-outline btn-disabled">Profile PDF</a></div></div>
+        <div class="board-card"><div class="bc-avatar">MH</div><div class="bc-info"><div class="bc-role">Managing Editor</div><div class="bc-name">Prof. Dr. Monika Hanspal</div><div class="bc-meta">Dean Academics, Director of IQAC &nbsp;|&nbsp; GNA University, Phagwara</div></div><div class="bc-actions"><a href="#" class="btn-sm btn-outline btn-disabled">Profile PDF</a></div></div>
         <div class="board-card"><div class="bc-avatar">RK</div><div class="bc-info"><div class="bc-role">Editor</div><div class="bc-name">Dr. Rajinder Kaur</div><div class="bc-meta">Editor &nbsp;|&nbsp; GNA Business School, GNA University, Phagwara</div></div><div class="bc-actions"><a download href="profiles/dr-rajinder-kaur.pdf" class="btn-sm btn-outline " target="_blank">Profile PDF</a></div></div>
         <div class="board-card"><div class="bc-avatar">AR</div><div class="bc-info"><div class="bc-role">Assistant Editor</div><div class="bc-name">Dr. Anjel Raj Y</div><div class="bc-meta">Assistant Professor &nbsp;|&nbsp; GNA Business School, GNA University, Phagwara</div></div><div class="bc-actions"><a download href="profiles/dr-anjel-raj.pdf" class="btn-sm btn-outline" target="_blank">Profile PDF</a></div></div>
       </div>
