@@ -14,7 +14,7 @@ $aboutOpen = in_array($currentPage, ['about']) ? ' open' : '';
     <aside class="left-sidebar">
       <nav class="snav">
         <ul>
-          <?php echo navLink('index.php', 'Home', $currentPage); ?>
+          <?php echo navLink($homeURL, 'Home', $currentPage); ?>
           <li class="has-sub<?php echo $aboutOpen; ?>">
             <a href="about.php">About Journal</a>
             <ul class="sub-menu">

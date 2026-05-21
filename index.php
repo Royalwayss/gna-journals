@@ -12,7 +12,7 @@ include 'includes/header.php';
       <div class="popup-overlay" id="reviewerPopup">
         <div class="popup-box">
           <button class="popup-close" id="popupClose" aria-label="Close">&times;</button>
-          <img src="images/creative.jpg" alt="We are looking for Expert Peer Reviewers — GNA Journal">
+          <img src="images/popup.jpeg" alt="We are looking for Expert Peer Reviewers — GNA Journal">
         </div>
       </div>
 
