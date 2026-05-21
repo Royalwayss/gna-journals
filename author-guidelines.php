@@ -18,15 +18,15 @@ include 'includes/header.php';
       <div class="pdf-downloads-box">
         <div class="pdf-dl-title">Download Documents</div>
         <div class="pdf-dl-links">
-          <a href="pdf/Submission_Guidelines.pdf" target="_blank" class="pdf-dl-btn">
+          <a download href="pdf/Submission_Guidelines.pdf" target="_blank" class="pdf-dl-btn">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="12" y1="12" x2="12" y2="18"/><line x1="9" y1="15" x2="15" y2="15"/></svg>
             Submission Guidelines (PDF)
           </a>
-          <a href="pdf/Sample_Paper.pdf" target="_blank" class="pdf-dl-btn">
+          <a download href="pdf/Sample_Paper.pdf" target="_blank" class="pdf-dl-btn">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="12" y1="12" x2="12" y2="18"/><line x1="9" y1="15" x2="15" y2="15"/></svg>
             Sample Paper (PDF)
           </a>
-          <a href="pdf/Author-Guidelines.pdf" target="_blank" class="pdf-dl-btn">
+          <a download href="pdf/Author-Guidelines.pdf" target="_blank" class="pdf-dl-btn">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="12" y1="12" x2="12" y2="18"/><line x1="9" y1="15" x2="15" y2="15"/></svg>
             Author Declaration &amp; Copyright Form (PDF)
           </a>
