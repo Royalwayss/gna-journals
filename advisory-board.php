@@ -15,14 +15,14 @@ include 'includes/header.php';
       <div class="advisory-group"><div class="group-label">Members</div>
         <div class="members-grid">
           <div class="member-item"><h4>Prof S.B. Jonnalagadda</h4><p>University of KwaZulu-Natal, South Africa</p></div>
-          <div class="member-item"><h4>Prof. K. Inochig</h4><p>Nihon University, Japan</p></div>
+          <div class="member-item"><h4>Prof. K. Tochigi</h4><p>Nihon University, Japan</p></div>
           <div class="member-item"><h4>Prof. Wei Han</h4><p>The University of Hong Kong, Hong Kong</p></div>
           <div class="member-item"><h4>Prof. S. K. Ghosh</h4><p>Indian Institute of Technology, Roorkee</p></div>
           <div class="member-item"><h4>Prof. S. S. Boora</h4><p>Kurukshetra University, Kurukshetra</p></div>
           <div class="member-item"><h4>Prof. Seema Varma</h4><p>Banasthali University, Rajasthan</p></div>
           <div class="member-item"><h4>Dr. Rishi Raj Sharma</h4><p>GNDU Regional Campus, Gurdaspur</p></div>
           <div class="member-item"><h4>Dr. Vikas Madhukar</h4><p>Amity University, Haryana</p></div>
-          <div class="member-item"><h4>Dr. Lalit Kathuria</h4><p>Punjab University, Ludhiana</p></div>
+          <div class="member-item"><h4>Dr. Lalit Kathuria</h4><p>Punjab Agriculture University, Ludhiana</p></div>
           <div class="member-item"><h4>Dr. Shashi Kapoor</h4><p>Punjab University, Regional Centre, Ludhiana</p></div>
           <div class="member-item"><h4>Dr. K.B Jinesh</h4><p>Indian Institute of Space Science &amp; Technology, Kerala</p></div>
           <div class="member-item"><h4>Prof. Deepti Gupta</h4><p>Punjab University, Chandigarh</p></div>

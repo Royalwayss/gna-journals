@@ -11,7 +11,7 @@ include 'includes/header.php';
 <h1 class="page-title">Guidelines for Authors</h1>
 
       <div class="info-box">
-        <strong>Effective from January 2025 | Version 3.0</strong><br>
+        <strong>Effective from January 2026</strong><br>
         GJMT welcomes original research papers, review articles, case studies, and conceptual papers. All submissions must be original, unpublished, and not under consideration elsewhere. Manuscripts must adhere strictly to these guidelines; non-compliant submissions will be returned without review.
       </div>
 
@@ -26,7 +26,7 @@ include 'includes/header.php';
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="12" y1="12" x2="12" y2="18"/><line x1="9" y1="15" x2="15" y2="15"/></svg>
             Sample Paper (PDF)
           </a>
-          <a download href="pdf/Author-Guidelines.pdf" target="_blank" class="pdf-dl-btn">
+          <a download href="pdf/Author_Declaration_Copyright_Form.pdf" target="_blank" class="pdf-dl-btn">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="12" y1="12" x2="12" y2="18"/><line x1="9" y1="15" x2="15" y2="15"/></svg>
             Author Declaration &amp; Copyright Form (PDF)
           </a>
