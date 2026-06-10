@@ -38,4 +38,4 @@ $aboutOpen = in_array($currentPage, ['about']) ? ' open' : '';
           <?php echo navLink('contact.php', 'Contact the Editorial Team', $currentPage); ?>
         </ul>
       </nav>
-    </aside>
+    </aside> 
