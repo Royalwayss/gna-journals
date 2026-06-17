@@ -1,5 +1,10 @@
 <?php
-// includes/footer.php
+require_once('includes/config.php'); 
+$visitors_sql = "SELECT COUNT(*) AS total FROM visitors";
+$result = mysqli_query($conn, $visitors_sql);
+$row = mysqli_fetch_assoc($result);
+$visitors_count = $row['total'];
+
 ?>
   <footer>
     <div class="footer-inner">
@@ -39,6 +44,7 @@
     <div class="footer-bottom">
       <p>&copy; <?php echo date('Y'); ?> GNA University. All rights reserved. Published by S. Amar Singh Charitable Trust, Jalandhar.</p>
       <div class="footer-issn"><strong>ISSN:</strong> 0974-5726</div>
+      <div class="footer-issn"><strong>Total Visitors :</strong> <?php echo $visitors_count; ?></div>
     </div>
   </footer>
   <script src="<?php echo $baseUrl ?? ''; ?>js/main.js?v=2.0"></script>
