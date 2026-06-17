@@ -42,5 +42,21 @@
     </div>
   </footer>
   <script src="<?php echo $baseUrl ?? ''; ?>js/main.js?v=2.0"></script>
+  <script>
+      window.addEventListener('load', function() {
+        fetch('visitor-track.php', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({
+            referrer: document.referrer || null,
+            page_url: window.location.href || null,
+            screen_width: window.screen.width || null,
+            screen_height: window.screen.height || null
+          })
+        }).catch(function() {});
+      });
+</script> 
 </body>
 </html>
