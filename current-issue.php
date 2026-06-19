@@ -13,7 +13,7 @@ include 'includes/header.php';
       <div class="current-issue-header">
         <div class="ci-meta">
           <span class="ci-label">GNA Journal of Management and Technology</span>
-          <span class="ci-vol">Journal 2025, VOL 17, No.1</span>
+          <span class="ci-vol">Journal 2025, Vol 17, No.1</span>
         </div>
       </div>
 
