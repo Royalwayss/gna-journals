@@ -143,6 +143,18 @@ include 'includes/header.php';
               <td class="ai-pdf"><a download href="pdf/journal-2026-17-1/Sneh-Lata.pdf" target="_blank" class="ai-pdf-link" title="Download PDF"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="22" height="22"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="12" y1="12" x2="12" y2="18"/><line x1="9" y1="15" x2="15" y2="15"/></svg></a></td>
             </tr>
 			
+			<tr>
+              <td class="ai-sr"><?php echo $no++; ?></td>
+              <td class="ai-content">
+                <div class="ai-title">CONDENSATION OF NANO PALM OIL FUEL ASH AND SUGARCANE BAGASSE ASHAS PARTIALLY REPLACEMENT OF CEMENT IN CONCRETE</div>
+                <div class="ai-authors">Chandan Kumar, Ajit Singh</div>
+              </td>
+              <td class="ai-pdf"><a download href="pdf/journal-2026-17-1/Chandan-Kumar.pdf" target="_blank" class="ai-pdf-link" title="Download PDF"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="22" height="22"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="12" y1="12" x2="12" y2="18"/><line x1="9" y1="15" x2="15" y2="15"/></svg></a></td>
+            </tr>
+			
+			
+			
+			
 			
 		  
 		  </tbody>
